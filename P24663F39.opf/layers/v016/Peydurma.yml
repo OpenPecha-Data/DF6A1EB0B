@@ -6,18 +6,22 @@ annotations:
     span:
       start: 36826
       end: 36826
+      fail_update: both
   ebd59f76a61a443c9169afb1df85df83:
     span:
-      start: 36872
-      end: 36872
+      start: 36873
+      end: 36873
+      fail_update: both
   3ac2225efd7e446383212fb839d5123c:
     span:
-      start: 36967
-      end: 36967
+      start: 36965
+      end: 36965
+      fail_update: both
   4dc5f04777004ca4960f674c1cd05eb1:
     span:
-      start: 37050
-      end: 37050
+      start: 37048
+      end: 37048
+      fail_update: both
 local_ids:
   a0eaed35226943b29dccbdbb0534932b: 200000
   ebd59f76a61a443c9169afb1df85df83: 200001
